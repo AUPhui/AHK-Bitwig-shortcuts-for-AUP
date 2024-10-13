@@ -4,12 +4,10 @@
 
         
 快捷键宏：
+
         Ctrl + 1：暂无
-        
         Ctrl + 2：快速添加Pro C2 Vst(以此类推)
-        
         Ctrl + 3：快速添加Pro Q3 Vst
-        
         Ctrl + 4：快速添加Tool
         Ctrl + 5：暂无
         Ctrl + 6：快速添加Serum Vst
