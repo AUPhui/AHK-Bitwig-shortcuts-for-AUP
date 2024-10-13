@@ -1,5 +1,17 @@
-﻿;;第一步，先让所有第三方插件的空格键发送给bitwig窗口
+﻿;;让所有第三方插件的空格键发送给bitwig窗口
 #IfWinActive ahk_exe BitwigPluginHost-X64-SSE41.exe 
+    Space::
+       
+        IfWinExist ahk_exe Bitwig Studio.exe
+        {
+            WinActivate
+            Send {Space}
+        }
+        return
+#IfWinActive
+
+;;点击minimeter（查看频谱）也可以继续使用bitwig的空格键
+#IfWinActive ahk_exe MiniMeters.exe 
     Space::
        
         IfWinExist ahk_exe Bitwig Studio.exe
