@@ -1,12 +1,4 @@
-第一步：
-
-安装AHK    https://www.autohotkey.com/
-
-第二步：
-
-双击Bitwig shortcuts for AUP.ahk
-
-即可使用
+双击.EXE即可使用
 
 
 ----------------------------------------------------------
