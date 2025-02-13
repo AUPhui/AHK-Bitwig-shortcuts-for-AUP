@@ -33,3 +33,5 @@
   Ctrl + 9：快速添加Pro R2 Vst
   
 ![GIF 2024-11-19 20-37-22](https://github.com/user-attachments/assets/8c4b81fa-7df3-4541-bcee-576bc577bdad)
+
+![a0fb17cb5e69af4d5fffb78b6711062c](https://github.com/user-attachments/assets/0db58837-e397-4a8a-817b-3ff10056d033)
